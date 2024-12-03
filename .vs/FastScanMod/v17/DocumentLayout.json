@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\SNMods\\FastScanMod\\",
+  "WorkspaceRootPath": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FasterPDAScan.csproj|d:\\projects\\snmods\\fastscanmod\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FasterPDAScan.csproj|D:\\Projects\\Subnautica Mods\\FasterPDAScan\\pdascannerpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FasterPDAScan.csproj|solutionrelative:pdascannerpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FasterPDAScan.csproj|d:\\projects\\subnautica mods\\fasterpdascan\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FasterPDAScan.csproj|solutionrelative:modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FastPDAScan.csproj|D:\\Projects\\SNMods\\FastScanMod\\pdascannerpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FastPDAScan.csproj|solutionrelative:pdascannerpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FastPDAScan.csproj|D:\\Projects\\SNMods\\FastScanMod\\fastpdascanplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C8F7A8-220D-46A2-9B23-87F70839A630}|FastPDAScan.csproj|solutionrelative:fastpdascanplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FasterPDAScan||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -30,10 +26,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PDAScannerPatches.cs",
+              "DocumentMoniker": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\PDAScannerPatches.cs",
+              "RelativeDocumentMoniker": "PDAScannerPatches.cs",
+              "ToolTip": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\PDAScannerPatches.cs",
+              "RelativeToolTip": "PDAScannerPatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:49:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ModConfig.cs",
-              "DocumentMoniker": "D:\\Projects\\SNMods\\FastScanMod\\ModConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\ModConfig.cs",
               "RelativeDocumentMoniker": "ModConfig.cs",
-              "ToolTip": "D:\\Projects\\SNMods\\FastScanMod\\ModConfig.cs",
+              "ToolTip": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\ModConfig.cs",
               "RelativeToolTip": "ModConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,35 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PDAScannerPatches.cs",
-              "DocumentMoniker": "D:\\Projects\\SNMods\\FastScanMod\\PDAScannerPatches.cs",
-              "RelativeDocumentMoniker": "PDAScannerPatches.cs",
-              "ToolTip": "D:\\Projects\\SNMods\\FastScanMod\\PDAScannerPatches.cs",
-              "RelativeToolTip": "PDAScannerPatches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T04:38:03.562Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FastPDAScanPlugin.cs",
-              "DocumentMoniker": "D:\\Projects\\SNMods\\FastScanMod\\FastPDAScanPlugin.cs",
-              "RelativeDocumentMoniker": "FastPDAScanPlugin.cs",
-              "ToolTip": "D:\\Projects\\SNMods\\FastScanMod\\FastPDAScanPlugin.cs",
-              "RelativeToolTip": "FastPDAScanPlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T04:23:54.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FasterPDAScan",
-              "DocumentMoniker": "D:\\Projects\\SNMods\\FastScanMod\\FasterPDAScan.csproj",
+              "DocumentMoniker": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\FasterPDAScan.csproj",
               "RelativeDocumentMoniker": "FasterPDAScan.csproj",
-              "ToolTip": "D:\\Projects\\SNMods\\FastScanMod\\FasterPDAScan.csproj",
+              "ToolTip": "D:\\Projects\\Subnautica Mods\\FasterPDAScan\\FasterPDAScan.csproj",
               "RelativeToolTip": "FasterPDAScan.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-30T20:57:22.386Z"
